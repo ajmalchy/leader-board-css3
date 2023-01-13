@@ -104,7 +104,13 @@ hr{
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 24px;
 }
-
+.class-duration {
+    border: none;
+    color: #FF4A60;
+    background-color:#FFE4E8;
+    border-radius: 15px;
+    padding: 3px;
+}
 /* media queries */
 /* Mobile devices */
 @media screen and (max-width:688px) {
